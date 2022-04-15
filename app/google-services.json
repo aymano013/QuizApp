@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957342342022",
+    "project_id": "authf-37708",
+    "storage_bucket": "authf-37708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957342342022:android:0b7f0501e01204265aea07",
+        "android_client_info": {
+          "package_name": "com.hachame.quizapp_c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957342342022-dac6s06ti31egfa1483e3bge9n0v1uad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPKdMQHdrZYlj_xche8GtqTZmKOgWaiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957342342022-dac6s06ti31egfa1483e3bge9n0v1uad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
